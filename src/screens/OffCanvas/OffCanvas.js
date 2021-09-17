@@ -119,7 +119,7 @@ const OffCanvas = () => {
                 <div className='main-title2'>
                   {<>GET €1000 IN BONUSES & 1000 FREE SPINS</>}
                 </div>
-                <div className='main-text'>
+                <div className='main-text2'>
                   <div>
                     Receive up to €100 for free when making your first deposit &
                     you get 1000 free spins
@@ -138,7 +138,7 @@ const OffCanvas = () => {
                 <div className='main-title2'>
                   {<>GET €1000 IN BONUSES & 1000 FREE SPINS</>}
                 </div>
-                <div className='main-text'>
+                <div className='main-text2'>
                   <div>
                     Receive up to €100 for free when making your first deposit &
                     you get 1000 free spins
@@ -157,7 +157,7 @@ const OffCanvas = () => {
                 <div className='main-title2'>
                   {<>GET €1000 IN BONUSES & 1000 FREE SPINS</>}
                 </div>
-                <div className='main-text'>
+                <div className='main-text2'>
                   <div>
                     Receive up to €100 for free when making your first deposit &
                     you get 1000 free spins
@@ -176,7 +176,7 @@ const OffCanvas = () => {
                 <div className='main-title2'>
                   {<>GET €1000 IN BONUSES & 1000 FREE SPINS</>}
                 </div>
-                <div className='main-text'>
+                <div className='main-text2'>
                   <div>
                     Receive up to €100 for free when making your first deposit &
                     you get 1000 free spins
